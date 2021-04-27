@@ -24,6 +24,8 @@ Here are seven of the most common web application performance roadblocks and how
 An essential element of successful web traffic management is DNS queries, which is why an issue with these systems can result in a plethora of issues. Without the proper protection, faulty DNS queries can prevent visitors from reaching your website, while also causing errors, 404s, and incorrect pathways. In a similar vein, network connectivity and an efficient firewall are key parts of your site’s access and productivity.https://commons.wikimedia.org/wiki/File:What-is-a-dns-leak1.png
 2.
 Slow servers and loading time
+[slider.zip](https://github.com/8eepaksahu/assignment/files/6385720/slider.zip)
+
 If your servers are particularly slow, they could be hosted using a shared account, which means that your site is sharing the server with hundreds, possibly thousands of other websites. You can address this common roadblock by checking with your hosting company to determine whether or not the site is hosted on a dedicated server. If it isn’t, you can request this service, but it may come at an additional price.
 3.Poorly written code
 Another web application performance problem that many face is with poorly written code, which could refer to inefficient code, memory leaks, or synchronization issues. Your application could also deadlock due to ineffectual algorithms, as well as the performance degradation of a web application. Old versions of software or integrated legacy systems can also take a toll on your website’s performance.
