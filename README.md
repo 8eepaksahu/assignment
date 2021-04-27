@@ -1,5 +1,6 @@
 
 # technical answer
+#assignment full stack developer
 
 Q.1How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
 answer: 1.i am spending 5-6 hour in coding test with easy work think about imagine coding working in Develope.
